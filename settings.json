@@ -8,7 +8,7 @@
   "server": {
     "ip": "SkillGangSMP.aternos.me",
     "port": 26222,
-    "version": "1.21.1"
+    "version": "26.1"
   },
   "position": {
     "enabled": true,
